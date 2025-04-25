@@ -3,15 +3,16 @@
 	"id": "ikea",
 	"version": "${version}",
 	"name": "ikea",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "Le mod officiel du projet SCP-3008, le Ikea infini",
 	"authors": [
-		"Me!"
+		"vexpi",
+		"suiveurtag"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://www.brighter-builds.cc/",
+		"sources": "https://github.com/Brighter-Builds/ikea-3008"
 	},
-	"license": "CC0-1.0",
+	"license": "ARR",
 	"icon": "assets/ikea/icon.png",
 	"environment": "*",
 	"entrypoints": {
